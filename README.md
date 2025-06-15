@@ -51,6 +51,3 @@ npm run dev
 3. View predictions and analytics
 4. Export results as needed
 
-## License
-
-MIT License
