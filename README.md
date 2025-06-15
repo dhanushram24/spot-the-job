@@ -51,3 +51,4 @@ npm run dev
 3. View predictions and analytics
 4. Export results as needed
 
+Video Link: https://youtu.be/8MRFMvCvLj8?si=phWKyUYwDKw13QgY
